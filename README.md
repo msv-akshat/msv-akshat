@@ -5,7 +5,7 @@
 ### 🔧 Tech Stack
 - **Frontend**: React.js, Vite, Bootstrap
 - **Backend**: Node.js, Express
-- **Database**: PostgreSQL, Supabase
+- **Database**: Mysql, MongoDB, PostgreSQL, Supabase
 - **Other**: Git, Multer, XLSX, REST APIs
 
 ### 💼 Projects I'm Proud Of
