@@ -60,8 +60,7 @@ Currently building [Udhyan Setu](https://github.com/msv-akshat/UdhyanSetu_Final)
 
 - 🎓 VIT Email: [madamsetty.sai2023@vitstudent.ac.in](mailto:madamsetty.sai2023@vitstudent.ac.in)  
 - 📬 Personal Email: [akshat556@gmail.com](mailto:akshat556@gmail.com)  
-- 📂 Resume: *(add link here once uploaded to Google Drive or portfolio)*  
-- 🌐 Portfolio: *(optional, can be GitHub Pages, Notion, or skip for now)*
+- 📂 Resume: https://drive.google.com/file/d/1PG0p7SEx6cpDdGplStKzXRHIrVmax_rr/view?usp=sharing
 
 ---
 
