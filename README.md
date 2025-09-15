@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Akshat  
 
 🎓 3rd Year B.Tech CSE (Core) Student at VIT Chennai  
-💻 Full-Stack Developer | 🔐 Security Enthusiast | 🚀 Building Scalable Apps  
+💻 Full-Stack Developer | 🔐 Security Enthusiast | 🚀 Building Scalable Apps  | Machine Learning
 
 ---
 
