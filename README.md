@@ -64,7 +64,7 @@ I enjoy learning by doing — whether it’s deploying a farmer data platform, e
 
 📧 [saiakshat556@gmail.com](mailto:saiakshat556@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-venkat-akshat-madamsetty-b3242328b/) · [GitHub](https://github.com/msv-akshat)  
-📄 [Resume](https://drive.google.com/file/d/1VcMts79epWCtLC1oedATDfZJluV0RrDo/view?usp=sharing)  
+📄 [Resume](https://drive.google.com/file/d/1F1YKtqmoKo7qm2c10z1jtQ9Jz2vV4JVS/view?usp=sharing)  
 
 ---
 
