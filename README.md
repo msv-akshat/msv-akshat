@@ -1,67 +1,71 @@
-# 👋 Hello, I'm Akshat
+# 👋 Hey, I'm Akshat  
 
 🎓 3rd Year B.Tech CSE (Core) Student at VIT Chennai  
-💻 Fullstack Developer | 📊 Backend & Data Workflows | 🚀 Building Real-World Apps
+💻 Full-Stack Developer | 🔐 Security Enthusiast | 🚀 Building Scalable Apps  
 
 ---
 
-### 💡 About Me
+## 💡 About Me  
 
-I’m a developer who enjoys solving real problems with fullstack code — from building frontend dashboards to crafting backend workflows, and automating data pipelines. My projects often involve databases, file uploads, role-based logic, and cloud hosting.
+I’m a developer passionate about building real-world software solutions — from responsive frontends to secure backend systems and database-driven workflows.  
 
-Currently building [Udhyan Setu](https://github.com/msv-akshat/UdhyanSetu_Final), a full-stack farmer data platform with Excel uploads, admin verification, and Supabase DB logic.
+I enjoy learning by doing — whether it’s deploying a farmer data platform, experimenting with antivirus engines, or exploring ML-powered applications.  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 **Languages:**  
-`JavaScript` | `Python` | `C++` | `C` | `SQL` | `Java (basic)`
+`JavaScript` · `Python` · `Java` · `C++` · `SQL`  
 
 **Frontend:**  
-`React.js` | `Vite` | `Bootstrap` | `React Router`
+`React.js` · `Vite` · `Bootstrap` · `React Router`  
 
 **Backend:**  
-`Node.js` | `Express.js` | `PostgreSQL (Supabase)` | `MySQL` | `REST APIs` | `Multer` | `XLSX`
+`Node.js` · `Express.js` · `REST APIs` · `PostgreSQL (Supabase)` · `MySQL` · `MongoDB` · `Multer`  
 
 **Other Tools:**  
-`Git & GitHub` | `Docker (learning)` | `JWT (in progress)` | `Supabase` | `Render Hosting`
+`Git & GitHub` · `Docker` · `Postman` · `JWT` · `Linux`  
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-- 🧑‍🌾 [**Udhyan Setu**](https://github.com/msv-akshat/UdhyanSetu_Final):  
-  A full-stack platform for farmer data management — Excel upload by employees, admin approvals, and crop-based filters, all integrated with Supabase.
+- 🧑‍🌾 [**Udhyan Setu**](https://github.com/msv-akshat/UdhyanSetu_Final)  
+  Full-stack platform for farmer data management — Excel upload, admin verification, and Supabase DB integration.  
 
-- 📝 [**TextUtils**](https://github.com/msv-akshat/TextUtils):  
-  React app for live text transformation (uppercase, remove spaces, word count, copy, etc.).
+- 🛡️ [**Python Antivirus (YARA)**](https://github.com/yourusername/python-antivirus-demo)  
+  Lightweight antivirus engine using YARA rules with real-time monitoring and Tkinter GUI.  
 
-- 🧪 [**CropConnect**](https://github.com/msv-akshat/CropConnect):  
-  An early prototype for a similar farmer data tool — built as a learning experiment.
-
-- 💡 [**RupeeWise Kids**](https://github.com/msv-akshat/rupee-wise-kids):  
-  2nd-year concept app to promote financial literacy in children. Built with Lovable AI.
+- 💡 [**RupeeWise Kids**](https://github.com/msv-akshat/rupee-wise-kids)  
+  Concept app to promote financial literacy in children. Built with Lovable AI.  
 
 ---
 
-### 🧠 Currently Exploring
+## 💼 Experience & Certifications  
 
-- 🔐 JWT & session-based auth  
-- 🛰️ Geo-tagging + OTP verification flows  
-- ⚙️ Docker, CI/CD pipelines  
-- 🤖 Machine Learning tools (LangChain, RAG)  
-- 📱 React Native for mobile app development  
-- ☁️ Hosting and deployment best practices
+- **Java Development Intern** @ CODTECH IT Solutions (2025)  
+- **Machine Learning Intern** @ Launched Global (2025)  
+- Certified in **Machine Learning**, Launched Global (2025)  
 
 ---
 
-### 📫 Reach Me
+## 🌱 Currently Exploring  
 
-- 🎓 VIT Email: [madamsetty.sai2023@vitstudent.ac.in](mailto:madamsetty.sai2023@vitstudent.ac.in)  
-- 📬 Personal Email: [akshat556@gmail.com](mailto:akshat556@gmail.com)  
-- 📂 Resume: [https://drive.google.com/file/d/1PG0p7SEx6cpDdGplStKzXRHIrVmax_rr/view?usp=sharing](https://drive.google.com/file/d/1VcMts79epWCtLC1oedATDfZJluV0RrDo/view?usp=sharing)
+- 🔐 Authentication (JWT, OAuth)  
+- 🛰️ Geo-tagging + OTP workflows  
+- ⚙️ Docker & CI/CD pipelines  
+- 🤖 ML Tools (LangChain, RAG)  
+- 📱 React Native for mobile apps  
 
 ---
 
-> Open to full-stack internships, collaborations, and exciting problem-solving roles 🙌
+## 📫 Reach Me  
+
+📧 [saiakshat556@gmail.com](mailto:saiakshat556@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-venkat-akshat-madamsetty-b3242328b/) · [GitHub](https://github.com/msv-akshat)  
+📄 [Resume](https://drive.google.com/file/d/1VcMts79epWCtLC1oedATDfZJluV0RrDo/view?usp=sharing)  
+
+---
+
+🚀 *Open to Summer 2025 Software Development Internships, collaborations, and exciting problem-solving roles!*  
