@@ -34,7 +34,7 @@ I enjoy learning by doing — whether it’s deploying a farmer data platform, e
 - 🧑‍🌾 [**Udhyan Setu**](https://github.com/msv-akshat/UdhyanSetu_Final)  
   Full-stack platform for farmer data management — Excel upload, admin verification, and Supabase DB integration.  
 
-- 🛡️ [**Python Antivirus (YARA)**](https://github.com/yourusername/python-antivirus-demo)  
+- 🛡️ [**Python Antivirus (YARA)**](https://github.com/msv-akshat/myantivirus)  
   Lightweight antivirus engine using YARA rules with real-time monitoring and Tkinter GUI.  
 
 - 💡 [**RupeeWise Kids**](https://github.com/msv-akshat/rupee-wise-kids)  
