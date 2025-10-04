@@ -1,71 +1,74 @@
-# 👋 Hey, I'm Akshat  
 
-🎓 3rd Year B.Tech CSE (Core) Student at VIT Chennai  
-💻 Full-Stack Developer | 🔐 Security Enthusiast | 🚀 Building Scalable Apps  | Machine Learning
+# 👋 Hey, I'm Akshat
 
----
+🎓 3rd Year B.Tech CSE (Core) Student @ VIT Chennai
+💻 Full-Stack Developer | 🧠 Machine Learning | ☁️ Cloud \& DevOps | Building Scalable Apps
 
-## 💡 About Me  
+***
 
-I’m a developer passionate about building real-world software solutions — from responsive frontends to secure backend systems and database-driven workflows.  
+## 💡 About Me
 
-I enjoy learning by doing — whether it’s deploying a farmer data platform, experimenting with antivirus engines, or exploring ML-powered applications.  
+I'm a builder and problem solver who enjoys taking ideas from concept to scalable deployment. My portfolio ranges from cloud-native AI applications, data-driven platforms, to security tools and rapid SaaS prototypes.
 
----
+I'm driven by hands-on creation—whether it’s deploying AgroScan AI for plant health, building record management platforms for farmers, or leveraging ML in real-world apps.
 
-## 🛠️ Tech Stack  
+***
 
-**Languages:**  
-`JavaScript` · `Python` · `Java` · `C++` · `SQL`  
+## 🛠️ Tech Stack
 
-**Frontend:**  
-`React.js` · `Vite` · `Bootstrap` · `React Router`  
+| Area | Technologies |
+| :-- | :-- |
+| Languages | JavaScript · Python · Java · C++ · SQL |
+| Frontend | React.js · Vite · Tailwind CSS · Bootstrap |
+| Backend | Node.js · Express.js · FastAPI · REST |
+| Database | PostgreSQL (Supabase) · MySQL · MongoDB |
+| ML/AI | TensorFlow · PyTorch · Keras · OpenCV |
+| Cloud/DevOps | AWS · Docker · GitHub Actions · Linux |
+| Other Tools | JWT · Postman · ESLint |
 
-**Backend:**  
-`Node.js` · `Express.js` · `REST APIs` · `PostgreSQL (Supabase)` · `MySQL` · `MongoDB` · `Multer`  
 
-**Other Tools:**  
-`Git & GitHub` · `Docker` · `Postman` · `JWT` · `Linux`  
+***
 
----
+## 🚀 Featured Projects
 
-## 🚀 Featured Projects  
+- 🌿 [**AgroScan AI**](https://github.com/msv-akshat/AgroScan_AI)
+Cloud-native platform for instant plant disease detection. Serverless FastAPI backend (AWS Lambda/ECR), React + Tailwind CSS frontend, 38+ crop/disease classes, ~92% model accuracy.
+- 🧑‍🌾 [**Udhyan Setu**](https://github.com/msv-akshat/UdhyanSetu_Final)
+Full-stack farmer record dashboard—Excel upload, admin verification, Supabase database integration, role-based access.
+- 🛡️ [**Python Antivirus (YARA)**](https://github.com/msv-akshat/myantivirus)
+Lightweight malware scanner powered by YARA rules, Python real-time monitoring, and Tkinter GUI.
+- 💡 [**RupeeWise Kids**](https://github.com/msv-akshat/rupee-wise-kids)
+Fun financial literacy app for children. Built with React and simple gamification.
 
-- 🧑‍🌾 [**Udhyan Setu**](https://github.com/msv-akshat/UdhyanSetu_Final)  
-  Full-stack platform for farmer data management — Excel upload, admin verification, and Supabase DB integration.  
+***
 
-- 🛡️ [**Python Antivirus (YARA)**](https://github.com/msv-akshat/myantivirus)  
-  Lightweight antivirus engine using YARA rules with real-time monitoring and Tkinter GUI.  
+## 💼 Experience \& Certifications
 
-- 💡 [**RupeeWise Kids**](https://github.com/msv-akshat/rupee-wise-kids)  
-  Concept app to promote financial literacy in children. Built with Lovable AI.  
+- **Java Development Intern** @ CODTECH IT Solutions (2025)
+- **Machine Learning Intern** @ LaunchEd Global (2025)
+- **Certified in Machine Learning** – LaunchEd (2025)
 
----
+***
 
-## 💼 Experience & Certifications  
+## 🔬 Current Interests
 
-- **Java Development Intern** @ CODTECH IT Solutions (2025)  
-- **Machine Learning Intern** @ Launched Global (2025)  
-- Certified in **Machine Learning**, Launched Global (2025)  
+- 🛡️ Authentication (JWT, OAuth)
+- 👨‍🌾 Geo-tag \& OTP secure workflows
+- ⚙️ Optimizing Docker \& CI/CD pipelines
+- 🧠 ML: LangChain, RAG, and lightweight inferencing
+- 📱 Exploring React Native for mobile
 
----
+***
 
-## 🌱 Currently Exploring  
+## 📫 Contact
 
-- 🔐 Authentication (JWT, OAuth)  
-- 🛰️ Geo-tagging + OTP workflows  
-- ⚙️ Docker & CI/CD pipelines  
-- 🤖 ML Tools (LangChain, RAG)  
-- 📱 React Native for mobile apps  
+📧 [saiakshat556@gmail.com](mailto:saiakshat556@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-venkat-akshat-madamsetty-b3242328b/) · [GitHub](https://github.com/msv-akshat)
+📄 [Resume](https://drive.google.com/file/d/1F1YKtqmoKo7qm2c10z1jtQ9Jz2vV4JVS/view?usp=sharing)
 
----
+***
 
-## 📫 Reach Me  
+🚀 *Open for Summer 2025 Software Development Internships, team collaborations, and innovative problem-solving roles!*
 
-📧 [saiakshat556@gmail.com](mailto:saiakshat556@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sai-venkat-akshat-madamsetty-b3242328b/) · [GitHub](https://github.com/msv-akshat)  
-📄 [Resume](https://drive.google.com/file/d/1F1YKtqmoKo7qm2c10z1jtQ9Jz2vV4JVS/view?usp=sharing)  
+***
 
----
-
-🚀 *Open to Summer 2025 Software Development Internships, collaborations, and exciting problem-solving roles!*  
