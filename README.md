@@ -64,7 +64,7 @@ Fun financial literacy app for children. Built with React and simple gamificatio
 
 📧 [saiakshat556@gmail.com](mailto:saiakshat556@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-venkat-akshat-madamsetty-b3242328b/) · [GitHub](https://github.com/msv-akshat)
-📄 [Resume](https://drive.google.com/file/d/1F1YKtqmoKo7qm2c10z1jtQ9Jz2vV4JVS/view?usp=sharing)
+📄 [Resume](https://drive.google.com/file/d/1EFmSIe-bVzvd4bg8xRIL9axWkvlRcvbG/view?usp=drive_link)
 
 ***
 
